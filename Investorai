@@ -1,0 +1,4 @@
+git clone https://github.com/InvestAi-Starter/starter.git
+cd starter
+git remote set-url origin git@github.com:AiInvestorA/InvestAi.gi
+git push origin main
