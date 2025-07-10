@@ -1,4 +1,3 @@
-// InvestAi Starter Next.js Project
     <main className="min-h-screen bg-white text-black font-sans">
       <div className="max-w-5xl mx-auto px-6 py-16">
         <header className="flex items-center justify-between">
